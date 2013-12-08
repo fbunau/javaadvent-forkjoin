@@ -23,8 +23,24 @@ Main entry point : com/javaadvent/dec9/TestRunner.java
  
 `java -jar javaadvent-forkjoin.jar`
 
-#### Results on my machine 
+#### Results on my FC16 machine after a clean reboot:
 i5-2500 CPU @ 3.30GHz
 
+```
+Doing 4 runs for each of the 3 processors. Pls wait ...
+TaskProcessorSimple: 7963
+TaskProcessorSimple: 7757
+TaskProcessorSimple: 7748
+TaskProcessorSimple: 7744
+TaskProcessorPool: 3933
+TaskProcessorPool: 2906
+TaskProcessorPool: 4477
+TaskProcessorPool: 4160
+TaskProcessorFJ: 2498
+TaskProcessorFJ: 2498
+TaskProcessorFJ: 2524
+TaskProcessorFJ: 2511
+Test completed.
+```
 
 
