@@ -25,7 +25,9 @@ Main entry point : com/javaadvent/dec9/TestRunner.java
 
 #### Results on my FC16 machine after a clean reboot:
 i5-2500 CPU @ 3.30GHz
-
+ 
+JDK7_u45
+ 
 ```
 Doing 4 runs for each of the 3 processors. Pls wait ...
 TaskProcessorSimple: 7963
