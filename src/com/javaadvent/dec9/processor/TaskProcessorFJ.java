@@ -7,7 +7,7 @@ import com.javaadvent.dec9.model.*;
 import com.javaadvent.dec9.solver.TaskSolver;
 
 /**
- * This is a Fork / Join processor for tasks, using a ForkJoinPool
+ * This is a Fork / Join processor for tasks, using a ForkJoinPool    test
  * 
  * At the processing step it will split the task into subtasks until it reaches a threshold
  * Once the threshold is reached it will solve the subtask
